@@ -204,10 +204,10 @@ public class BingFileUtils {
         int i = 1;
         for (Images images : imagesList) {
             Files.write(path, ("|" + images.toString()).getBytes(), StandardOpenOption.APPEND);
-            //if (i % 3 == 0) {
+            if (i % 3 == 0) {
                 Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
                 Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-            //}
+            }
             i++;
         }
         if (i % 3 != 1) {
