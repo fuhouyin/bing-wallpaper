@@ -28,7 +28,7 @@ public class Wallpaper {
         JSONObject jsonObject = JSON.parseObject(httpContent);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
 
-        jsonObject = (JSONObject)jsonArray.get(3);
+        jsonObject = (JSONObject)jsonArray.get(0);
         // 图片地址
         String url = BING_URL + (String)jsonObject.get("url");
         url = url.substring(0, url.indexOf("&"));
