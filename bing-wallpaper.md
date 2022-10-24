@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg) 
+
 2022-10-24 | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://cn.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg) 
 
 2022-10-21 | [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg) 
