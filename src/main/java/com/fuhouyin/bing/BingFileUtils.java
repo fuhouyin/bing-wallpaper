@@ -215,27 +215,4 @@ public class BingFileUtils {
         }
     }
 
-    private static void writeFileReadme(Path path, List<Images> imagesList, String name) throws IOException {
-        if (!Files.exists(path)) {
-            Files.createFile(path);
-        }
-        String title = "## Bing Wallpaper";
-        if (name != null) {
-            title = "## Bing Wallpaper (" + name + ")";
-        }
-        Files.write(path, title.getBytes());
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, imagesList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, "|      |      |      |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, "| :----: | :----: | :----: |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        for (Images images : imagesList) {
-            Files.write(path, ("|" + images.toString()).getBytes(), StandardOpenOption.APPEND);
-            Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
-            Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        }
-    }
-
 }
