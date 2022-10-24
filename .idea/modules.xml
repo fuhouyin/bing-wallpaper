@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bing-wallpaper.iml" filepath="$PROJECT_DIR$/bing-wallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bingWallpaper.iml" filepath="$PROJECT_DIR$/bingWallpaper.iml" />
+    </modules>
+  </component>
+</project>

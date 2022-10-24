@@ -1,0 +1,63 @@
+## Bing Wallpaper
+2022-10-24 | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://cn.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg) 
+
+2022-10-21 | [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg) 
+
+2022-10-20 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg) 
+
+2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg) 
+
+2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg) 
+
+2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg) 
+
+2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg) 
+
+2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](https://cn.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg) 
+
+2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg) 
+
+2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg) 
+
+2022-10-12 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg) 
+
+2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg) 
+
+2022-10-10 | [Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg) 
+
+2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg) 
+
+2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg) 
+
+2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
+
+2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg) 
+
+2022-10-04 | [The Port House, designed by Zaha Hadid Architects, Antwerp, Belgium (© Dmitry Rukhlenko/Alamy)](https://cn.bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg) 
+
+2022-10-03 | [Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg) 
+
+2022-10-02 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg) 
+
+2022-10-01 | [Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg) 
+
+2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg) 
+
+2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg) 
+
+2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg) 
+
+2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg) 
+
+2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg) 
+
+2022-09-25 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg) 
+
+2022-09-24 | [Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg) 
+
+2022-09-23 | [The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg) 
+
+2022-09-22 | ['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg) 
+
+2022-09-21 | [Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg) 
+
