@@ -1,4 +1,52 @@
 ## Bing Wallpaper
+2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg) 
+
+2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg) 
+
+2022-11-17 | [Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg) 
+
+2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg) 
+
+2022-11-15 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg) 
+
+2022-11-14 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg) 
+
+2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg) 
+
+2022-11-12 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg) 
+
+2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg) 
+
+2022-11-10 | [European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg) 
+
+2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg) 
+
+2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg) 
+
+2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg) 
+
+2022-11-06 | [Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg) 
+
+2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg) 
+
+2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg) 
+
+2022-11-03 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg) 
+
+2022-11-02 | [Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg) 
+
+2022-11-01 | [Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://cn.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg) 
+
+2022-10-31 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg) 
+
+2022-10-30 | [Sea angel (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg) 
+
+2022-10-28 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](https://cn.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg) 
+
+2022-10-27 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg) 
+
+2022-10-26 | [Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg) 
+
 2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg) 
 
 2022-10-24 | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://cn.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg) 
