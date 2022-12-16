@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg) 
+
 2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg) 
 
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg) 
