@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-18 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg) 
+
 2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg) 
 
 2025-06-16 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg) 
