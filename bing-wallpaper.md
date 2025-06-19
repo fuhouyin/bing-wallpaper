@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg) 
+
 2025-06-18 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg) 
 
 2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg) 
