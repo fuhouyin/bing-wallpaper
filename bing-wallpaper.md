@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-12 | [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg) 
+
 2026-10-11 | [Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg) 
 
 2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg) 
