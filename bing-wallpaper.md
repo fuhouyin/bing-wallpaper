@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-26 | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg) 
+
 2026-10-25 | [Green-headed tanager (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg) 
 
 2026-10-24 | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg) 
