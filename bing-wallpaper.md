@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-27 | [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg) 
+
 2026-10-26 | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg) 
 
 2026-10-25 | [Green-headed tanager (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg) 
